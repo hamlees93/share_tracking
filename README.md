@@ -1,2 +1,1 @@
-# share_tracking
-Scraping data to see likelihood of shares falling the day after a large gain
+At first glance, it seems the largest risers on a day of the ASX often see a pull-back, at least in the morning of the next day. Potential chance to short them in the morning, quickly closing position, in case they do manage a rally
